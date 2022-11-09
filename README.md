@@ -1,10 +1,10 @@
 # GreekToGreeklish
 
 # Instructions
-Make sure to use : ISO-8859-7:1987 (Latin/Grek)
-To compile : make all
-To delete executable : make clean
-To execute : ./translate < yourfiletotranslate.txt
+Make sure to use : ISO-8859-7:1987 (Latin/Grek)<br />
+To compile : make all<br />
+To delete executable : make clean<br />
+To execute : ./translate < yourfiletotranslate.txt<br />
         or : cat yourfiletotranslate.txt | translate
 
 # Implementation
